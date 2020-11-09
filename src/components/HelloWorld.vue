@@ -16,7 +16,7 @@
         cols="12"
       >
         <h2 class="headline font-weight-bold mb-3">
-          anushik is working on it
+          anouchik is working on it
         </h2>
       </v-col>
 
